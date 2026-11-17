@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": "be31041e-2c0a-4cf4-b312-5802ee6353f8",
+      "title": "کالاف دیوتی موبایل",
+      "image": "/uploads/186ec861f6dbeaade35bc9a41d234819.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "5f49dcfe-7e7e-4f25-81c3-976c0d19682a",
+      "categoryId": "be31041e-2c0a-4cf4-b312-5802ee6353f8",
+      "title": "80 CP",
+      "description": "80 سیپی قانونی واریز 12 ساعته ",
+      "price": 200000,
+      "stock": 1,
+      "image": "/uploads/6a341e07fbc9666654a37677b10ac7bf.webp"
+    }
+  ],
+  "orders": [
+    {
+      "id": "8b075e02-5959-4325-8e12-46a38ee843f9",
+      "name": "محمد",
+      "telegram": "",
+      "items": [
+        {
+          "productId": "5f49dcfe-7e7e-4f25-81c3-976c0d19682a",
+          "title": "80 CP",
+          "price": 200000,
+          "qty": 1
+        }
+      ],
+      "total": 200000,
+      "createdAt": "2026-11-17T00:13:16.826Z",
+      "status": "pending"
+    },
+    {
+      "id": "a3164a36-31ab-4e20-81e7-f45d30ac723a",
+      "name": "محمد",
+      "telegram": "",
+      "items": [
+        {
+          "productId": "5f49dcfe-7e7e-4f25-81c3-976c0d19682a",
+          "title": "80 CP",
+          "price": 200000,
+          "qty": 1
+        }
+      ],
+      "total": 200000,
+      "createdAt": "2026-11-16T21:53:56.207Z",
+      "status": "pending"
+    },
+    {
+      "id": "a49f60d5-54b0-4ebe-9587-fd6cf85904f3",
+      "name": "محمد",
+      "telegram": "",
+      "items": [
+        {
+          "productId": "5f49dcfe-7e7e-4f25-81c3-976c0d19682a",
+          "title": "80 CP",
+          "price": 200000,
+          "qty": 1
+        }
+      ],
+      "total": 200000,
+      "createdAt": "2026-11-16T21:53:02.561Z",
+      "status": "pending"
+    }
+  ],
+  "settings": {
+    "cardNumber": "6219861806070834",
+    "cardOwner": "فردین محمدی",
+    "botUsername": "ALBERIA3BOT",
+    "bankName": ""
+  }
+}
